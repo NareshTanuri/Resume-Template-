@@ -1,0 +1,23 @@
+.Card__Body {
+    background-color: #ffffff;
+}
+
+.square img {
+    width: 100px;
+    height: auto;
+}
+
+.bar__displaying {
+    display: inline-block;
+    background: rgb(222, 238, 244);
+    width: 67%;
+    height: 20px;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
